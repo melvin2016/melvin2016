@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my blog melvingeorge.me
+Check out my blog [melvingeorge.me](https://melvingeorge.me)
 
 <!--
 **melvin2016/melvin2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
