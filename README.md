@@ -1,9 +1,9 @@
-<div style="text-align:center;">
-### Hi there 👋
+
+# Hi there 👋
 
 Check out my blog [melvingeorge.me](https://melvingeorge.me)
 
-<div>
+
 
 
 
