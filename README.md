@@ -1,6 +1,6 @@
 ![MELVIN GEORGE Blog](https://melvingeorge.me/metame.png)
 
-Check out my blog [melvingeorge.me](https://melvingeorge.me)
+Check out my blog [melvingeorge.me](https://melvingeorge.me) 🚀 ✅ 🦄
 
 
 
