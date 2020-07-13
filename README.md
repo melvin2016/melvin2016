@@ -1,6 +1,11 @@
+<div style="text-align:center;">
 ### Hi there 👋
 
 Check out my blog [melvingeorge.me](https://melvingeorge.me)
+
+<div>
+
+
 
 <!--
 **melvin2016/melvin2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
