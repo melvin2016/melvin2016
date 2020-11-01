@@ -1,6 +1,6 @@
 ## Blog
 
-<center><img width="500"  src="https://melvingeorge.me/metame.png" /></center>
+<img width="500"  src="https://melvingeorge.me/metame.png" />
 
 
 Check out my blog [melvingeorge.me](https://melvingeorge.me) 🚀 ✅ 🦄
